@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Puriwat Koosuwan</h1>
-<h3 align="center">A Sophomore Software Engineering Student At KMITL</h3>
+<h3 align="center">A Senior Software Engineering Student At KMITL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinyyxxx&label=Profile%20views&color=0e75b6&style=flat" alt="shinyyxxx" /> </p>
 
